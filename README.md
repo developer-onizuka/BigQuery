@@ -3,17 +3,17 @@ BigQuery is a fully managed enterprise data warehouse that helps you manage and 
 
 **Ingest**
   - Batch & Streaming
-  - Structured & Semi-structured <br>
+  - Structured & Semi-structured data<br>
 
 **Store**
   - Up to Petabytes of data
-  - Datasets & tables
-  - Federate data <br>
+  - Datasets (regouped data as folders) & tables (usual data in tabular format)
+  - Federate data (from Cloud Storage) <br>
 
 **Analyze**
   - Super-fast SQL queries
   - Aggregate
-  - Transform with DML <br>
+  - Transform with DML (Data Manuplate Language)<br>
 
 **Visualize**
   - Export and connect to other tools more easily <br>
