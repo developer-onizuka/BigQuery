@@ -21,6 +21,13 @@ You can export the result with complicated queries to a table as Destination suc
 - **External table** (similar to External Table on Serverless SQL Pool in Azure Synapse Analytics - for Ad hoc and One time analysis) <br>
 Federated queries let you read data from external sources while streaming supports continuous data updates so that you can avoid duplicate storage.
 
+# 2. BigQuery analytics
+You can query data stored in BigQuery or run queries on data where it lives using external tables or federated queries including Cloud Storage, Bigtable, Spanner, or Google Sheets stored in Google Drive.
+- Create views to share your analysis <br>
+- Business intelligence tool support including BI Engine with Looker Studio, Looker, Google Sheets, and 3rd party tools like Tableau and Power BI <br>
+
+# 3. BigQuery Acess Control
+BigQuery provides centralized management of data and compute resources while Identity and Access Management (IAM) helps you secure those resources with the access model that's used throughout Google Cloud.
 
 # Optimize BigQuery
 - Leverage caching and materialized veiws <br>
