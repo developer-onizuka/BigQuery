@@ -1,6 +1,7 @@
 # BigQuery
 BigQuery is a fully managed enterprise data warehouse that helps you manage and analyze your data with built-in features like machine learning, geospatial analysis, and business intelligence. <br><br>
 
+| | Functions |
 |:---|:---|
 |**Ingest**| - Batch & Streaming <br> - Structured & Semi-structured data |
 |**Store**| - Up to Petabytes of data <br> - Datasets (regouped data as folders) & tables (usual data in tabular format) <br> - Federate data (from Cloud Storage) |
