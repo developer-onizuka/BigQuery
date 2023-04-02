@@ -25,7 +25,7 @@ Federated queries let you read data from external sources while streaming suppor
 You can query data stored in BigQuery or run queries on data where it lives using external tables or federated queries including Cloud Storage, Bigtable, Spanner, or Google Sheets stored in Google Drive.
 - **Create views to share your analysis** <br>
 A view itself can treat the results of the query as a table. A view is an intangible virtual table that can be used as **a materialized view** like a cache.<br>
-- **Business intelligence tools**
+- **Business intelligence tools**<br>
 Support including BI Engine with Looker Studio, Looker, Google Sheets, and 3rd party tools like Tableau and Power BI <br>
 - **Query data outside of BigQuery with external tables and federated queries.** <br>
 For Ad hoc and One time analysis<br>
