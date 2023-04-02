@@ -2,17 +2,20 @@
 BigQuery is a fully managed enterprise data warehouse that helps you manage and analyze your data with built-in features like machine learning, geospatial analysis, and business intelligence. <br>
 **- Ingest**
   - Batch & Streaming
-  - Structured & Semi-structured
+  - Structured & Semi-structured <br>
+
 **- Store**
   - Up to Petabytes of data
   - Datasets & tables
-  - Federate data
+  - Federate data <br>
+
 **- Analyze**
   - Super-fast SQL queries
   - Aggregate
-  - Transform with DML
+  - Transform with DML <br>
+
 **- Visualize**
-  - Export and connect to other tools more easily
+  - Export and connect to other tools more easily <br>
 
 - **Native table** (Dedicated SQL pool in Azure Synapse Analytics) <br>
 
