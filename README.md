@@ -13,3 +13,12 @@ BigQuery is a fully managed enterprise data warehouse that helps you manage and 
 
 - **External table** (External Table on Serverless SQL Pool in Azure Synapse Analytics - for Ad hoc and One time analysis) <br>
 Federated queries let you read data from external sources while streaming supports continuous data updates
+
+
+# Optimize BigQuery
+- Leverage caching and materialized veiws <br>
+- Partition and cluster your BigQuery tables <br>
+- Data retention policies <br>
+- Avoid duplicate storage - use federated data access <br>
+
+- You can export the result with complicated queries to a table as Destination.
