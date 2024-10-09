@@ -1,6 +1,9 @@
 # BigQuery
 BigQuery is a fully managed enterprise data warehouse that helps you manage and analyze your data with built-in features like machine learning, geospatial analysis, and business intelligence. <br>
 
+---
+BigQuery は、機械学習、地理空間分析、ビジネス インテリジェンスなどの組み込み機能を使用してデータの管理と分析を支援する、フルマネージドのエンタープライズ データ ウェアハウスです。本リポジトリではBigQueryの各機能について考察をするものになります。
+
 | Functions | Details |
 |:---|:---|
 |**Ingest**| - Batch (No costs) & Streaming <br> - Structured & Semi-structured data |
@@ -39,4 +42,5 @@ BigQuery provides centralized management of data and compute resources while Ide
 - Data retention policies <br>
 - Avoid duplicate storage - use federated data access <br>
 
-- 
+# 4. Summary
+BigQuery is a service that combines a query engine that can process queries on terabytes of data in seconds, and storage that scales at a low price. Since there is no cost if the query engine itself is not used, it can be used at a much lower cost than traditional data warehouses, which often require dedicated hardware to be activated all the time.
